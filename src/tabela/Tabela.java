@@ -6,8 +6,8 @@
 package tabela;
 
 /**
- *
- * @author gmaes
+ * 
+ * @author Alexandre
  */
 public class Tabela {
 
